@@ -1,0 +1,12 @@
+div.post {
+	margin: 10px 0px;
+	background-color: #0040FF;
+	border: 5px outset #000080;
+	padding: 0px 15px;
+	display: block;
+}
+
+html {
+	margin: 0px;
+	background: url(/res/images/bkg.png) no-repeat fixed;
+}
